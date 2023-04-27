@@ -77,7 +77,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/Adriana-Daniela/impersonate-user-sylius-plugin.git"
+            "url": "https://github.com/Adriana-Daniela/sylius-user-impersonator-plugin.git"
         }
     ],
     "extra": {
